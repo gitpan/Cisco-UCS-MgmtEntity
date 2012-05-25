@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Cisco-UCS-MgmtEntity
-version:            0.11
+version:            0.12
 abstract:           Class for operations with a Cisco UCSM Management Entity
 author:
     - Luke Poskitt <ltp@cpan.org>

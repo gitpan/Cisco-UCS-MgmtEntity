@@ -2,7 +2,7 @@ Changes
 MANIFEST
 Makefile.PL
 README
-lib/Cisco/UCS/ServiceProfile.pm
+lib/Cisco/UCS/MgmtEntity.pm
 t/00-load.t
 t/manifest.t
 t/pod-coverage.t
